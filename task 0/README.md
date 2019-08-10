@@ -1,6 +1,6 @@
 # TASK 0
 ## installed ubuntu.
-## stepwise procedure i used:
+### stepwise procedure i used:
 
 > Step 1: Got the iso file from a friend,moved it to a USB drive and made it bootable
 > Step 2:Started the installation procedure of Ubuntu 
