@@ -7,9 +7,13 @@
 ### The links of the codeforeces problems are as follows:
 
 > http://codeforces.com/problemset/problem/1/A
+
 > http://codeforces.com/problemset/problem/71/A
+
 > http://codeforces.com/problemset/problem/158/A
+
 > http://codeforces.com/problemset/problem/282/A
+
 > http://codeforces.com/problemset/problem/96/A
 
 #### the links of the hackerrank problems are as follows:
