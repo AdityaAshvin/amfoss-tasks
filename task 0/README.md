@@ -1,4 +1,5 @@
-# installed ubuntu.
+# TASK 1
+## installed ubuntu.
 ## stepwise procedure i used:
 
 > Step 1: Got the iso file from a friend,moved it to a USB drive and made it bootable
