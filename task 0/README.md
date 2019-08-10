@@ -13,3 +13,6 @@ screenshot of the homescreen is attached  in the folder
 ### errors that i encountered:
 
 > total attempts made to download:2. Failed the first two times and succeded in the third attempt.In the first attempt, made a msitake with allocating free space in the memory. In the second attempt the software was downloaded but didnt work. In the third attempt succesfully installed and Ubuntu worked.
+
+
+back to home page: https://github.com/AdityaAshvin/amfoss-tasks
