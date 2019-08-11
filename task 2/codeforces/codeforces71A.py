@@ -1,6 +1,6 @@
-n = int(input(" enter a number "))
+n = int(input())
 for i in range(n):
-        word = input(" enter a word ")
+        word = input()
         l = int(len(word))
         if (l > 10):
                 first = word[0]
