@@ -8,7 +8,8 @@
 > Step 4:Gave the user credentials and password
 > Step 5:Restarted the laptop and then Ubuntu was ready to be used.
 
-screenshot of the homescreen is attached  in the folder
+screenshot of the homescreen:
+> 
 
 ### errors that i encountered:
 
