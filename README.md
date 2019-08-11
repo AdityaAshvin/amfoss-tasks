@@ -1,4 +1,3 @@
-                                                                                                                                   AA
 # amfoss-tasks      
 ## TABLE OF CONTENTS
 
