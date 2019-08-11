@@ -1,5 +1,5 @@
-n,k = map(int,input(" enter number of participating students and then k-th position ").split())
-s = list(map(int,input(" enter scores of the participants " ).split()))
+n,k = map(int,input().split())
+s = list(map(int,input().split()))
 test = s[k-1]
 cnt = 0
 for i in range(0,len(s)):
