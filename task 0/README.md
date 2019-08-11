@@ -2,7 +2,7 @@
 ## installed ubuntu.
 ### stepwise procedure i used:
 
-> Step 1: Got the iso file from a friend,moved it to a USB drive and made it bootable
+> * Step 1 *: Got the iso file from a friend,moved it to a USB drive and made it bootable
 > Step 2:Started the installation procedure of Ubuntu 
 > Step 3:Selected the installation type.
 > Step 4:Gave the user credentials and password
