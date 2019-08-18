@@ -11,7 +11,7 @@
 |     4)     |captcha breaking | [task 8](  https://github.com/AdityaAshvin/amfoss-tasks/tree/master/task%208)|
 |     5)     |personal website | [Task 9](https://github.com/AdityaAshvin/amfoss-tasks/tree/master/task%209 )|
 |     6)     | CS50            | [Task 10](https://github.com/AdityaAshvin/amfoss-tasks/tree/master/task%2010 )|
-|     7)     | Rusted email    | |
+|     7)     | Rusted email    | |Task 7](https://github.com/AdityaAshvin/amfoss-tasks/tree/master/task7)|
 
 
 
