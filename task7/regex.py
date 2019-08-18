@@ -1,11 +1,11 @@
 import re
 
-def isverified(email):
+def isValidEmail(email):
  if len(email) > 7:
   if re.match("^.+@([?)[a-zA-Z0-9-.]+.([a-zA-Z]{2,3}|[0-9]{1,3})(]?)$", email) != None:
          return True
          return False
-if isverified("example@gmail.com") == True :
+if isValidEmail("example@gmail.com") == True :
     print ("This is a valid email address")
 else:
     print ("This is not a valid email address")
