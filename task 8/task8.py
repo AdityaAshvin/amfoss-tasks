@@ -5,21 +5,21 @@ except ImportError:
 import pytesseract
 from pytesseract import image_to_string
 
-x = pytesseract.image_to_string(Image.open('./Home/Desktop/cap'))
+x = pytesseract.image_to_string(Image.open('./Home/Desktop/cap.png'))
 n1 = int(x[0:1])
 n2 = int(x[2:3])
-if '+' in x:
-    y = n1+n2
-    print(y)
+if '/' in x:
+    div = n1/n2
+    print(div)
+elif '+' in x:
+    su = n1+n2
+    print(su)
 elif '-' in x:
-    y = n1-n2
-    print(y)
+    sub = n1-n2
+    print(sub)
 elif '*' in x:
-    y = n1*n2
-    print(y)
-elif '/' in x:
-    y = n1/n2
-    print(y)
+    mul = n1*n2
+    print(mul)
 
     
 
