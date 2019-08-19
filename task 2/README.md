@@ -12,7 +12,7 @@
 
 > [PROBLEM 158A](http://codeforces.com/problemset/problem/158/A)
 
->[PROBLEM 282A] (http://codeforces.com/problemset/problem/282/A)
+> [PROBLEM 282A](http://codeforces.com/problemset/problem/282/A)
 
 > [PROBLEM 96A](http://codeforces.com/problemset/problem/96/A)
 
