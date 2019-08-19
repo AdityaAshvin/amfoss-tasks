@@ -14,7 +14,7 @@
 |     7)     | Rusted email    | [Task 7]( https://github.com/AdityaAshvin/amfoss-tasks/tree/master/task7)|
 
 
-#Aditya Ashvin
-##EAC19003
+# Aditya Ashvin
+## EAC19003
 
 
