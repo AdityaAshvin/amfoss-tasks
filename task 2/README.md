@@ -6,27 +6,27 @@
 
 ### The links of the codeforeces problems are as follows:
 
-> http://codeforces.com/problemset/problem/1/A
+> [PROBLEM 1A](http://codeforces.com/problemset/problem/1/A)
 
-> http://codeforces.com/problemset/problem/71/A
+> [PROBLEM 71A](http://codeforces.com/problemset/problem/71/A)
 
-> http://codeforces.com/problemset/problem/158/A
+> [PROBLEM 158A](http://codeforces.com/problemset/problem/158/A)
 
-> http://codeforces.com/problemset/problem/282/A
+>[PROBLEM 282A] (http://codeforces.com/problemset/problem/282/A)
 
-> http://codeforces.com/problemset/problem/96/A
+> [PROBLEM 96A](http://codeforces.com/problemset/problem/96/A)
 
 #### the links of the hackerrank problems are as follows:
 
-> https://www.hackerrank.com/challenges/compare-the-triplets/problem
+> [COMPARE-THE-TRIPLETS](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
 
-> https://www.hackerrank.com/challenges/diagonal-difference
+> [DIAGONAL-DIFFERENCE](https://www.hackerrank.com/challenges/diagonal-difference)
 
-> https://www.hackerrank.com/challenges/staircase/problem
+> [STAIRCASE](https://www.hackerrank.com/challenges/staircase/problem)
 
-> https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+> [BIRTHDAY-CAKE-CANDLES](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
 
-> https://www.hackerrank.com/challenges/time-conversion/problem
+> [TIME-CONVERSION](https://www.hackerrank.com/challenges/time-conversion/problem)
 
 
 ***back to home page:*** [HOMEPAGE](https://github.com/AdityaAshvin/amfoss-tasks)
