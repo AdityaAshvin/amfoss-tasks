@@ -1,3 +1,5 @@
+## CONDITIONS TO BE SATISFIED
+
 ## ***for account***
 
 1) 1 or more characters
@@ -17,3 +19,7 @@ A sample email id contains:
 3) Contains no embedded blanks
 4) Must have at least one period, and cannot start or end with an underscore, dash, period or hyphen.
 5) There must be at least two letters before and after every period.
+
+Did the program in Rust by learnning the syntax of rust language. Took help from the following link:
+>https://docs.rs/regex/1.1.9/regex/
+
