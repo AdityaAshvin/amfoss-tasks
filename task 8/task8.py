@@ -3,7 +3,6 @@ try:
 except ImportError:
     import Image
 import pytesseract
-from pytesseract import image_to_string
 
 x = pytesseract.image_to_string(Image.open('./Home/Desktop/cap.png'))
 n1 = int(x[0:1])
