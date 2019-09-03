@@ -12,8 +12,8 @@
 |     5)     |personal website | [Task 9](https://github.com/AdityaAshvin/amfoss-tasks/tree/master/task%209 )|
 |     6)     | CS50            | [Task 10](https://github.com/AdityaAshvin/amfoss-tasks/tree/master/task%2010 )|
 |     7)     | Rusted email    | [Task 7]( https://github.com/AdityaAshvin/amfoss-tasks/tree/master/task7)|
-|     8)     | Bandit          | [Task 14]( https://github.com/AdityaAshvin/amfoss-tasks/tree/master/task%2014)|
-|     9)     | 
+|     8)     | Bandit Task     | [Task 14]( https://github.com/AdityaAshvin/amfoss-tasks/tree/master/task%2014)|
+|     9)     | Eueler projects | [Task 13](https://github.com/AdityaAshvin/amfoss-tasks/tree/master/task%2013)|
 
 # Aditya Ashvin
 ## EAC19003
