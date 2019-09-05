@@ -28,3 +28,46 @@ The password for the next level is stored in a hidden file in the inhere directo
 ### approach I used
 The password is found by opening the hidden file inhere using ls -la,cat,cd commands.
 
+## Bandit Level 4 → Level 5
+### Level Goal
+The password for the next level is stored in the only human-readable file in the inhere directory.
+
+### Approach I used
+The password is found by opening the only human readable innthe in here directory. The file is file 07
+
+## Bandit Level 5 → Level 6
+### Level goal
+The password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties:
+
+human-readable
+1033 bytes in size
+not executable
+
+### Approach I used
+
+
+## Bandit Level 6 → Level 7
+### Level Goal
+
+
+### Approach I used
+
+## Bandit Level 7 → Level 8
+### Level Goal
+
+### Approach I used 
+
+
+## Bandit Level 8 → Level 9
+### Level Goal
+
+### Approach I used
+
+
+## Bandit Level 9 → Level 10
+### Level Goal
+
+### Approach I used
+
+
+
