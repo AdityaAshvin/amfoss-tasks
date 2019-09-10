@@ -1,10 +1,10 @@
 package main
 
 import ("encoding/json"
-	    "flag"
-	    "os"
-        "github.com/ChimeraCoder/anaconda"
-)
+	"github.com/ChimeraCoder/anaconda"
+	"flag"
+	"os")
+        
 
 func main() {
 	handlePtr := flag.String("handle", "TwitterAPI", "Twitter handle")
