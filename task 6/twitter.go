@@ -11,9 +11,9 @@ import (
 
 func main() {
 	var name string    
-	fmt.Println("enter the username ")
+	fmt.Println("enter the username of a Twitter user ")
 	fmt.Scanln(&name)
-	tn:=flag.String("twitterHandler",name,"it contains the name of twitter handler") 
+	tn:=flag.String("twitterHandler",name,"name of twitter user") 
 	flag.Parse()
 	config := oauth1.NewConfig("u1IfrGHbISQOEahLSu1uNHX6U", "1B2pfbKwwQUo1XJDENy8dXFxtu7e9dkW8MQTSxixNp2epz1C5o")
 	token := oauth1.NewToken("1171113971119575040-j9yYMQgautaDZE3vDIlgQ6x7gYf34N ", "SYeDwgctvOOORHFJCbu8eo5a00l0kRIsu9EpDSMWamLGj")
