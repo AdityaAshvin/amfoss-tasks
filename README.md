@@ -16,7 +16,7 @@
 |     8)     | Bandit Task     | [Task 14]( https://github.com/AdityaAshvin/amfoss-tasks/tree/master/task%2014)|
 |     9)     | Eueler projects | [Task 13](https://github.com/AdityaAshvin/amfoss-tasks/tree/master/task%2013)|
 |     10)    | Web Scrapping   | [Task 3](https://github.com/AdityaAshvin/amfoss-tasks/tree/master/Task%203)|
-|     11)    | Advanced XOR   | [Task 4](https://github.com/AdityaAshvin/amfoss-tasks/tree/master/Task%203)|
+|     11)    | Advanced XOR  (Pending)| [Task 4](https://github.com/AdityaAshvin/amfoss-tasks/tree/master/Task%203)|
 |     12)    | Get it using JavaScript | [Task 5](https://github.com/AdityaAshvin/amfoss-tasks/tree/master/Task%205)|
 |     13)    | CLI app using Go  | [Task 6](https://github.com/AdityaAshvin/amfoss-tasks/tree/master/task%206)|
 |     14)    | Pong Game      | [Task 11](https://github.com/AdityaAshvin/amfoss-tasks/tree/master/task%2011)|
