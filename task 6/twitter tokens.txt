@@ -1,0 +1,11 @@
+Twitter keys and tokens
+
+### Consumer API keys
+> u1IfrGHbISQOEahLSu1uNHX6U (API key)
+
+> B2pfbKwwQUo1XJDENy8dXFxtu7e9dkW8MQTSxixNp2epz1C5o (API secret key)
+
+### Access token & access token secret
+> 1171113971119575040-j9yYMQgautaDZE3vDIlgQ6x7gYf34N (Access token)
+
+> SYeDwgctvOOORHFJCbu8eo5a00l0kRIsu9EpDSMWamLGj (Access token secret)
