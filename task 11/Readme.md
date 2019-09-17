@@ -1,5 +1,5 @@
 # Task 11: PONG GAME
 
-https://adityaashvin.github.io/PongGame.github.io/
+[Pong Game](https://adityaashvin.github.io/PongGame.github.io/)
 
 
