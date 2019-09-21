@@ -2,6 +2,7 @@ package main
 
 import (
     "os"
+    "io"
     "flag"
     "fmt"
     "github.com/dghubble/go-twitter/twitter"
