@@ -6,6 +6,6 @@ for i in range(T):
         if((j%3==0)or(j%5==0)):
             s=s+j
     print(s)
-    
+    s=0
         
         
